@@ -1,6 +1,6 @@
 {
     "update_available": true,
     "files": [
-        "https://github.com/Jjc1228/CFB25Vision/raw/main/CFB25mainv3.cp38-win_amd64.pyd"
+        "CFB25mainv3.cp38-win_amd64.pyd"
     ]
 }
